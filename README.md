@@ -29,7 +29,7 @@ Labs included:
   - Creating an Application Gateway with WAF,
   - Creating a WAF in AWS
 - Module 6:
-  - Configure Azure Sentinel,
+  - Configure Microsoft Sentinel,
   - Configure workload protection for Microsoft Defender for Cloud,
   - Configure Guard Duty on AWS,
   - Configure Security Hub on AWS.
